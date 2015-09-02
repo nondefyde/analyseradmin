@@ -38,6 +38,7 @@ Route::controllers([
     'menu-items' => 'MasterRecords\MenuItemsController',
     'sub-menu-items' => 'MasterRecords\SubMenuItemController',
     'user-types' => 'MasterRecords\UserTypeController',
+    'committee-types' => 'MasterRecords\CommitteeController',
     'ranks' => 'MasterRecords\RankController',
     'houses' => 'MasterRecords\HouseController',
     'sectors' => 'MasterRecords\SectorController',
